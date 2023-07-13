@@ -1,0 +1,96 @@
+body{
+    margin:0px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #bedaff;
+}
+a{
+    text-decoration: none;
+}
+
+/* Header section---------------------------------------------------------------------------*/
+nav{
+
+    background-color:  #2874f0;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px 0px;
+}
+.name{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    margin-right: 2%;
+}
+.name span{
+    color: orange;
+}
+
+.search{
+    background-color: white;
+    padding: 8px;
+    width: 420px;
+    height: 34px;
+    margin: 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    color: #2874f0;
+    box-shadow: -7px -7px 10px rgba(0, 0, 0, 0.1),
+    -7px -7px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+
+}
+.loginbutton{
+    padding: 7px 40px;
+    font-size: 16px;
+    font-weight: 550;
+    border: none;
+    outline: none;
+    color: #2874f0;
+}
+.become{
+    margin: 0px 30px;
+    font-size: 18px;
+    color: white;
+}
+.become i{
+    font-size: 15px;
+}
+
+
+.search input{
+    width: 380px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    
+
+}
+.btn_location{
+    border: none;
+    color: blue;
+    border-radius: 4%;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 3px 6px;
+}
+/* dark mode*/
+.mode {
+    float:right;
+}
+.change {
+    cursor: pointer;
+    border: 1px solid #555;
+    border-radius: 40%;
+    width: 20px;
+    text-align: center;
+    padding: 5px;
+    margin-left: 35px;
+}
+.dark{
+    background-color: black;
+    color: yellow;
+}
+
+

@@ -1,0 +1,73 @@
+footer{
+    background-color: #29346f;
+    color: white;
+   /* text-align: center;*/
+    font-weight: bold;
+    
+ }
+ .footText{
+    font-size: 20px;
+    text-align: center;
+}
+.footDiv{
+    display: inline-block;
+    width: 32%;
+    border-right: 2px solid white;
+}
+  
+.footDiv span{
+    color: #878787;
+    margin-left: 18%;
+   
+}
+.footDiv p{
+    margin-left: 18%;
+    line-height: 8px;
+}
+ 
+.footDiv1 >a{
+    width: -1%;
+    font-size: 16px;
+    color: white;
+    margin-left: 2%;
+    
+}
+.footDiv1 i{
+    color: orange;
+}
+.footDiv2{
+    text-align: center;
+    display: inline-block;
+    margin-left: 0%;
+    border-right: 2px solid white;
+    width: 32%
+   
+}
+.footDiv2 span{
+    display: block;
+    font-size: 18px;
+}
+.playstore img{
+    display: inline-block;
+    height: 43px;
+    margin-bottom: -2%;
+    margin-top: 6%;
+    border: 1px solid white;
+    margin-left: 3%;
+}
+.footDiv2 i{
+    color: red;
+    font-size: 34px;
+    margin-left: 10px;
+    margin-top: 2%;
+}
+#social2{
+    margin-left: 45%;
+    float:right;   
+}
+.socialLogo2{
+    height: 42px;
+    width: 434px;
+    margin: 1px;
+    margin-top: -30px;
+}

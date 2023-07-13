@@ -1,0 +1,54 @@
+.topProduct{
+    height: 120px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    padding: 10px 60px;
+    border-bottom: 1px solid #ccc;
+   
+    
+}
+.topProduct_nav{
+    width: 80px;
+   /* height:112px; */
+    cursor: pointer;
+    flex: 1;
+}
+.topProduct_nav img{
+    width: 64px;
+    height: 64px;
+}
+.topProduct_nav p{
+    font-weight: bold;
+    color: white;
+    font-size: medium;
+
+}
+.topProduct_nav:hover p{
+    color: #2874f0;
+}
+/* weather image*/
+
+#container_location{
+    width: 13%;
+}
+.wheather_img{
+    height: 50%;
+    width: 30%;
+    margin-top: -7%;
+}
+.location_img{
+    font-size: 20px;
+    color: white;
+    margin-top: -2%;
+}
+#weather{
+    color: white;
+    margin-left: 1%;
+    font-weight: bold;
+    margin-top: -8%;
+}
+#out{
+    color: white;
+    font-weight: bold;
+}

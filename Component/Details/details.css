@@ -1,0 +1,58 @@
+/* Content*/
+#content{
+    width:80%;
+    display:flex;
+    margin-left:10%;
+    margin-top:2%
+}
+
+#imgDiv{
+    height:450px;
+    width:45%;
+    border:8px solid #3b2632;
+}
+
+#imgDiv > img {
+    height:100%;
+    width: 100%;
+}
+
+#contentDiv{
+    height:550px;
+    width:47%;
+    margin-left:5%;
+    margin-top:0%
+}
+
+.feature_Container{
+    display: flex;
+}
+
+figure{
+    margin-left:5%
+}
+
+.featureIcon{
+    height:100px;
+    width:100px
+}
+.Main{
+    height: 610px;
+}
+
+#contentDiv span h3{
+    color: green;
+}
+#contentDiv  h3{
+    color: red;
+}
+
+.PlaceOrder{
+    height: 150px;
+}
+.placeorder1{
+height: 350px;
+}
+
+
+
